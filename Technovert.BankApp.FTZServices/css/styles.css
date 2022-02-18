@@ -1,0 +1,117 @@
+﻿body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.bg {
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#header1 {
+    background: transparent;
+    text-decoration-color: #ffffff;
+    text-size-adjust: auto;
+    padding: 20px;
+}
+.nav-link{
+    color : blue;
+}
+#headertext {
+    text-align: left;
+    text-transform: uppercase;
+    color: #000;
+}
+.navbar .bg-dark{
+    opacity : 0.25;
+}
+/*.navbar .brand {
+    max-height: 40px;
+    overflow: visible;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.navbar a.navbar-brand {
+    padding: 9px 15px 8px;
+}*/
+.verticalLine {
+    border-left: thick solid #ff0000;
+}
+
+hr.vertical {
+    color: white;
+    width: 0px;
+    height: 100%; /* or height in PX */
+}
+.navbar-nav > li {
+    border-right: 0.25px solid #ffffff;
+    height : 50%;
+}
+
+    .navbar-nav > li:last-child {
+        border: none;
+    }
+.navbar {
+    min-height: 50px;
+    height: 50px;
+}
+.seperation {
+    border-right: 0.25px solid whitesmoke;
+    height: 50%;
+   
+}
+
+.jumbotron {
+    min-width: 500px;
+    margin: 30px auto;
+    display: flex;
+    justify-content: center;
+   
+    overflow: visible;
+    padding-top: 0;
+    padding-bottom: 0;
+    /*margin: 10px 10px 10px 10px;
+    border: 0.08em solid black;*/
+}
+
+#header1 {
+    background: gray;
+    padding : 10px;
+}
+#footer1 {
+    background: gray;
+    padding: 10px;
+}
+
+.footercontent {
+    color: white;
+    text-decoration: none !important;
+    /*background: transparent;*/
+    opacity: 0.75;
+}
+
+
+* {
+    box-sizing: border-box;
+}
+
+
+/* Create three equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+
