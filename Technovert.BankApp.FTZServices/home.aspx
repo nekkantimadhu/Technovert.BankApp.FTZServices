@@ -52,6 +52,7 @@
         <div>
 
     <div class ="row">
+
         <div class="col-sm">
             <div  >
                 <img class="card-img-top" src="images/tile1.png" alt="Card image cap">
@@ -62,6 +63,7 @@
                   <a href="#" >More About Free Trade Zones ></a>
                 </div>
               </div>
+
           </div>
           <div class="col-sm">
             <div  >
