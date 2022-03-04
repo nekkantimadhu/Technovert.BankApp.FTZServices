@@ -58,9 +58,13 @@ hr.vertical {
     height: 50px;
 }
 .seperation {
-    border-right: 0.25px solid whitesmoke;
-    height: 50%;
+    border-right: 0.10px solid whitesmoke;
+    height: 20%;
    
+}
+.navbar .a::before{
+    content :'|';
+    color :skyblue;
 }
 
 .jumbotron {
@@ -76,14 +80,8 @@ hr.vertical {
     border: 0.08em solid black;*/
 }
 
-#header1 {
-    background: gray;
-    padding : 10px;
-}
-#footer1 {
-    background: gray;
-    padding: 10px;
-}
+
+
 
 .footercontent {
     color: white;
@@ -114,4 +112,90 @@ hr.vertical {
 }
 
 
+.container1 {
+    margin: auto;
+    
+}
 
+    .container1 .options {
+        align-content :right;
+        margin-right: 0px;
+    }
+
+.main {
+    width: 0px;
+    height: 0px;
+    margin: auto;
+}
+
+.main .options {
+        float: right;
+    }
+
+.options {
+    margin-right: 100%;
+    width: 300px;
+    height: 20px;
+
+    margin-top: 0;
+    font-size: 12px;
+    padding-left: 20px;
+    padding-top: 3px;
+}
+
+    .options a {
+        color: white;
+        text-decoration: none;
+    }
+
+        .options a + a:before {
+            content: " | ";
+            color: skyblue;
+            
+        }
+
+
+
+
+.container2 .footer {
+    /* margin-top: 170px;
+        margin-left: 16%;
+        margin-right: 14.7%;
+        height: 25px;
+        width: 1030px;
+            margin: auto;
+        margin-top: 215px;
+           */
+    background-color: rgba(49, 40, 71, 0.8);
+}
+
+.copyright {
+    text-align: center;
+    font-size: 12px;
+        line-height: 24px;
+        
+    color: white;
+}
+
+    .copyright a {
+        text-decoration: underline;
+        text-underline-offset: 3px;
+        color: white;
+    }
+
+
+h6 {
+    margin: 0;
+}
+
+.header{
+margin-top:170px;
+margin-left:16%;
+margin-right:14.7%;
+height:25px;
+width:1030px;
+
+
+margin:auto;
+margin-top:215px;
+}

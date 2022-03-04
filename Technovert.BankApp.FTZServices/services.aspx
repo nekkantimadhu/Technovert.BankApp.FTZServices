@@ -69,8 +69,7 @@
             </div>
             <br/>
 
-            <br />
-            <br />
+            
             <div class ="block" align ="left">
                 <a href="#">Technology Services</a>
                 <br/>
@@ -101,6 +100,7 @@
 
           <div class ="block" class ="container-fluid" align ="left">
               <h6>Want to see how FTZ World Services can help you?</h6>
+              <br />
               <button style ="background-color:rgb(147, 147, 247);">Request Someone to Contact You ></button>
           </div>
         </div>

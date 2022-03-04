@@ -25,8 +25,8 @@
       <div class="mask text-white" style="background-color: rgba(76, 75, 78, 0.8); width : 100%;">
       <div class="container d-flex align-items-center text-center h-20" >
         
-      <h1 align ="left" style=" padding : 30px;"><pre>BRINGING TECHNOLOGY 
-        AND OPERATIONAL EXCELLENCE.</pre></h1>
+      <h1 align ="left" style=" padding : 30px;"><pre>BRINGING TECHNOLOGY
+AND OPERATIONAL EXCELLENCE.</pre></h1>
         </div>
         </div>
         </div>
@@ -52,6 +52,7 @@
         <div>
 
     <div class ="row">
+
         <div class="col-sm">
             <div  >
                 <img class="card-img-top" src="images/tile1.png" alt="Card image cap">
@@ -62,6 +63,7 @@
                   <a href="#" >More About Free Trade Zones ></a>
                 </div>
               </div>
+
           </div>
           <div class="col-sm">
             <div  >
