@@ -1,0 +1,182 @@
+﻿#para {
+    color: skyblue;
+    box-shadow: 0px 0px 0px 10px black;
+}
+
+#navbar {
+    margin-left: auto;
+}
+
+ul.list li {
+    display: inline;
+    margin: auto;
+}
+
+.two {
+    list-style-type: circle;
+}
+/*
+.navbar1 li {
+    float: right;
+}
+.navbar1 li + li:before{
+	content: " | ";
+    
+    
+}*/
+
+#boxes {
+    float: left;
+    font-size: 14px;
+    ;
+    height: 28px;
+    border-top: 2px solid #D9D7D8;
+    border-bottom: 2px solid #D9D7D8;
+    line-height: 2.3;
+    padding: 2px;
+}
+
+hr {
+    display: block;
+    marker-start: auto;
+    marker-end: auto;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 1px;
+}
+
+
+.list {
+    float: left;
+}
+
+ul {
+    list-style-type: square;
+}
+/* #navbar li {
+        float: left;
+    }
+    #navbar li + li:before{
+        content: " | ";
+        position: absolute;
+        
+    }
+
+    */
+
+
+
+
+
+
+
+
+.left {
+    background-image: url("C:\Users\Madhu2\Desktop\Mikasa Task Screenshots\Recipe.jpg");
+}
+
+
+
+
+
+
+
+
+
+
+
+.footer {
+    width: 1060px;
+    height: 50px;
+    margin-left: 0.5%;
+    color: rgba(255,255,255,0.5);
+    margin-top: 4px;
+    line-height: 21px;
+}
+
+.footer-left {
+    width: 50%;
+    float: left;
+    font-size: 12px;
+    color: rgba(255,255,255,0.5);
+}
+
+    .footer-left a {
+        color: white;
+    }
+
+.footer-right {
+    margin-right: 0px;
+    float: right;
+    font-size: 12px;
+    color: rgba(255,255,255,0.5);
+}
+
+    .footer-right p {
+        margin: 0;
+    }
+
+.footer a {
+    color: rgba(255,255,255,0.5);
+}
+
+.separator {
+    float: left;
+    background-color: rgba(0,0,0,0.1);
+    width: 1px;
+    padding: 10px 0px 10px 0px;
+    height: 145px;
+    margin-top: 9px;
+}
+
+.signup {
+    border-radius: 6PX;
+    padding: 4px 3px 3px 3px;
+    font-size: 10px;
+}
+
+.enter-email {
+    font-size: 10px;
+}
+
+.footer ul {
+    margin: 0;
+    margin-left: -40px;
+}
+
+.footer li {
+    float: left;
+}
+
+.footer p {
+    margin: 0;
+}
+
+.content1 a {
+    text-decoration: underline;
+    text-underline-offset: 1.3px;
+    ;
+}
+
+.content1 li + li:before {
+    content: " | ";
+    padding: 0 10px;
+    text-decoration: none;
+    ;
+}
+
+.top-left {
+    color: black;
+    position: absolute;
+}
+
+.top-right {
+    color: #000;
+    position: absolute;
+}
+
+.container1 {
+    position: relative;
+    text-align: center;
+    color: white;
+}
