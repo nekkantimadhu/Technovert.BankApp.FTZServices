@@ -70,7 +70,7 @@
 
 
 
-<div  id ="navbar2" class="container-fluid" style="background-color: rgb(224, 216, 216);height: 30px ; outline: 1px solid rgb(214, 209, 209);
+<div  id ="navbar2" class="container-fluid" style="background-color: rgb(185, 180, 180);height: 30px ;color :  black; outline: 1px solid rgb(214, 209, 209);
 outline-offset: 3px; ">
   
 <div class="container">
@@ -125,10 +125,12 @@ outline-offset: 3px; ">
         <li style="font-size: 12px;"><span  style="list-style : circle;size: 9px; width:3px;">&#9675</span> &nbsp; Holiday Platters</li>
       <li style="font-size: 12px;" ><span  style="list-style : circle; width:3px;">&#9675</span> &nbsp;Celebrate Thanksgiving</li>
     </ul>
-    <img class ="mr-sm-2" style="display: inline-block ;height : 30px;margin-left: 10%; clear: right;" src ="images/bridelRegistry.jpg" align ="right">
-    <a href="#" class="top-right" style ="font-size: 12px;top: 115px; right: 275px;">Bridal Registry</a> 
+    
+    <a href="#" class="top-right" style ="font-size: 12px;top: 115px; right: 190px;">Bridal Registry</a> 
+    <img class="top-right" style="top: 115px; right: 290px;display: inline-block ;height : 25px;" src ="images/bridelRegistry.jpg" align ="right">
 </div>
 <br/>
+  <br />     
 
 <hr>
 
@@ -161,7 +163,7 @@ outline-offset: 3px; ">
             <div class ="line"></div>
             <li>Wine & Cheese</li>
         </ul>
-          <a href ="#" style="font-size: 15px;">See More Dress Your Table Ideas</a>
+          <a href ="#" style="font-size: 15px; color:rgb(185, 180, 180)">See More Dress Your Table Ideas</a>
     </div>
     
     </div>
